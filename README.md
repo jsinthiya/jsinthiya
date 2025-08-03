@@ -15,7 +15,7 @@
 ### 👩‍🎓 About Me
 - 🎓 CSE Student @ United International University (CGPA: 3.82)
 - 💡 Undergraduate Teaching Assistant, UIU  
-- 🛠 1st Runner-up @ Electronics Lab View – CSE Project Show  
+- 🛠 1st Runner-up @ Electronics Lab – CSE Project Show  
 - 🧠 Exploring AI, Deep Learning, Full-Stack Web Development & Smart Systems  
 - 🌱 Passionate about solving real-world problems with tech  
 - 🏆 100% Scholarship Winner for Academic Excellence
